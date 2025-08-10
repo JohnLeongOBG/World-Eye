@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="TV5MONDO-INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_TV5_Monde_-_2021.svg" group-title="TV5MONDE-INFO",法国世界5台新闻频道
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
