@@ -1,6 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml"
 #EXT-X-APP APTV
-#EXT-X-APTV-TYPE blank
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/refs/heads/main/TV-LIVE.m3u
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/DW.png" group-title="News",德国之声英语新闻频道
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
