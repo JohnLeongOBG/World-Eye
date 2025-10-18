@@ -51,39 +51,39 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://production-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/LCOchpnEI6Wia1VD/sBxNfADIBGtkNt27/chunks.m3u8
 #EXTINF:-1 group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="9Gem.au@Sydney" group-title="AUTV-GEO",9Gem (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="9Gem.au@Sydney" group-title="AUTV-GEO",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-id="9Go.au@Sydney" group-title="AUTV-GEO",9Go! (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="9Go.au@Sydney" group-title="AUTV-GEO",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 tvg-id="9Life.au@Sydney" group-title="AUTV-GEO",9Life (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="9Life.au@Sydney" group-title="AUTV-GEO",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 tvg-id="10Bold.au@Sydney" group-title="AUTV-GEO",10 Bold Adelaide (1080p)
+#EXTINF:-1 tvg-id="10Bold.au@Sydney" group-title="AUTV-GEO",10 Bold Adelaide
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.au" group-title="AUTV-GEO",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 tvg-id="ABCME.au@Sydney" group-title="AUTV-GEO",ABC Me (720p)
+#EXTINF:-1 tvg-id="ABCME.au@Sydney" group-title="AUTV-GEO",ABC Me
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" group-title="News",ABC News
 https://c.mjh.nz/abc-news.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@Adelaide" group-title="AUTV-GEO",ABC TV Adelaide (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@Adelaide" group-title="AUTV-GEO",ABC TV Adelaide
 https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@Brisbane" group-title="AUTV-GEO",ABC TV Brisbane (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@Brisbane" group-title="AUTV-GEO",ABC TV Brisbane
 https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au" group-title="AUTV-GEO",ABC TV Canberra (720p)
+#EXTINF:-1 tvg-id="ABCTV.au" group-title="AUTV-GEO",ABC TV Canberra
 https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au" group-title="AUTV-GEO",ABC TV Darwin (720p)
+#EXTINF:-1 tvg-id="ABCTV.au" group-title="AUTV-GEO",ABC TV Darwin
 https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@Hobart" group-title="AUTV-GEO",ABC TV Hobart (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@Hobart" group-title="AUTV-GEO",ABC TV Hobart
 https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@Melbourne" group-title="AUTV-GEO",ABC TV Melbourne (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@Melbourne" group-title="AUTV-GEO",ABC TV Melbourne
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@Perth" group-title="AUTV-GEO",ABC TV Perth (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@Perth" group-title="AUTV-GEO",ABC TV Perth
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 tvg-id="ABCTVPlus.au@Sydney" group-title="AUTV-GEO",ABC TV Plus (720p)
+#EXTINF:-1 tvg-id="ABCTVPlus.au@Sydney" group-title="AUTV-GEO",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="ABCTV.au@Sydney" group-title="AUTV-GEO",ABC TV Sydney (720p)
+#EXTINF:-1 tvg-id="ABCTV.au@Sydney" group-title="AUTV-GEO",ABC TV Sydney
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Australia" group-title="News",Bloomberg TV Australia (270p)
+#EXTINF:-1 tvg-id="BloombergTV.us@Australia" group-title="News",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Adelaide" group-title="AUTV-GEO",Channel 9 Adelaide (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
@@ -95,18 +95,18 @@ https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/ind
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Sydney" group-title="AUTV-GEO",Channel 9 Sydney (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
-#EXTINF:-1 group-title="HK",RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 group-title="HK",Hoy76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="HK",HOY77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="HK",Hoy78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 group-title="HK",Hoy76
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 group-title="HK",RTHK32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="HK",RTHK31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 group-title="HK",RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 group-title="HK",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 group-title="France",TV5Monde-Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
 #EXTINF:-1 group-title="France",TV5-欧洲
@@ -143,7 +143,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTM3U url-tvg="https://i.mjh.nz/au/Sydney/epg.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://i.mjh.nz/au/Sydney/raw-tv.m3u8
+#EXT-X-SUB-URL https://gh.aptv.app/https://i.mjh.nz/au/Sydney/raw-tv.m3u8
 
 #EXTINF:-1 tvg-id="mjh-seven-syd" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/7_Channel_Logo.png" group-title="Sydney",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
