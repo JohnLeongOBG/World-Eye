@@ -85,15 +85,15 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Australia" group-title="News",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 tvg-id="Channel9.au@Adelaide" group-title="AUTV-GEO",Channel 9 Adelaide (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Adelaide" group-title="AUTV-GEO",Channel 9 Adelaide
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.au@Brisbane" group-title="AUTV-GEO",Channel 9 Brisbane (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Brisbane" group-title="AUTV-GEO",Channel 9 Brisbane
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.au@Melbourne" group-title="AUTV-GEO",Channel 9 Melbourne (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Melbourne" group-title="AUTV-GEO",Channel 9 Melbourne
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/mel/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.au@Perth" group-title="AUTV-GEO",Channel 9 Perth (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Perth" group-title="AUTV-GEO",Channel 9 Perth
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.au@Sydney" group-title="AUTV-GEO",Channel 9 Sydney (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Channel9.au@Sydney" group-title="AUTV-GEO",Channel 9 Sydney
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8
 #EXTINF:-1 group-title="HK",Hoy76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
