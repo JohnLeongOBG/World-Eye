@@ -499,5 +499,5 @@ https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="570News" tvg-logo="https://www.seekyoursounds.com/wp-content/uploads/2024/07/Seekr-RadioCover-CITY-Kit-300x300.png" group-title="Radio",570News
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109939.v2.png group-title="Radio",CP24-Radio
+#EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109939.v2.png" group-title="Radio",CP24-Radio
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
