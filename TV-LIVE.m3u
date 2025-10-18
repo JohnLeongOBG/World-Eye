@@ -501,5 +501,5 @@ https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109939.v2.png" group-title="Radio",CP24-Radio
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
-#EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="News",CPAC
+#EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="News",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
