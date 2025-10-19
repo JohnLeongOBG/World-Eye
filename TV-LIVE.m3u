@@ -3,13 +3,13 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/refs/heads/main/TV-LIVE.m3u
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml"
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/DW.png" group-title="News",德国之声英语新闻频道
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/DW.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="TV5MONDE-INFO" tvg-name="TV5MONDE-INFO" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-info.png" group-title="News",TV5MONDE-INFO
+#EXTINF:-1 tvg-id="TV5MONDE INFO" tvg-name="TV5MONDE INFO" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-info.png" group-title="News",TV5MONDE-INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MONDE-亚洲" tvg-name="TV5MONDE-亚洲" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5-asie_2.png" group-title="France",TV5MONDE-亚洲
+#EXTINF:-1 tvg-id="TV5MONDE Asie" tvg-name="TV5MONDE Asie" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5-asie_2.png" group-title="France",TV5MONDE-亚洲
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/france24.png" group-title="News",法国24英语频道
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/france24.png" group-title="News",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="WorldNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="News",半岛新闻阿语频道
 https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8
@@ -503,3 +503,5 @@ https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="News",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
