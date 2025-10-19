@@ -503,5 +503,5 @@ https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="News",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNN USA" tvg-logo="" group-title="News",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
