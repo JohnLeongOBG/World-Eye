@@ -521,3 +521,27 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-id="Channel5" tvg-logo="" group-title="UK",Channel5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-id="class95" tvg-logo="" group-title="RadioSG",class95
+https://22903.live.streamtheworld.com/CLASS95_PREM.aac
+#EXTINF:-1 tvg-id="GOLD905" tvg-logo="" group-title="RadioSG",GOLD905
+https://22903.live.streamtheworld.com/GOLD905_PREM.aac
+#EXTINF:-1 tvg-id="987FM" tvg-logo="" group-title="RadioSG",987
+https://28383.live.streamtheworld.com/987FM_PREM.aac
+#EXTINF:-1 tvg-id="CNA938" tvg-logo="" group-title="RadioSG",CNA938
+https://28323.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 tvg-id="SYMPHONY924" tvg-logo="" group-title="RadioSG",SYMPHONY924
+https://28383.live.streamtheworld.com/SYMPHONY924_PREM.aac
+#EXTINF:-1 tvg-id="YES933" tvg-logo="" group-title="RadioSG",YES933
+https://28323.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 tvg-id="LOVE972" tvg-logo="" group-title="RadioSG",LOVE972
+https://28313.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 tvg-id="CAPITAL958" tvg-logo="" group-title="RadioSG",CAPITAL958
+https://28373.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1 tvg-id="RIA897" tvg-logo="" group-title="RadioSG",RIA897
+https://22403.live.streamtheworld.com/RIA897FM_PREM.aac
+#EXTINF:-1 tvg-id="WARNA942" tvg-logo="" group-title="RadioSG",WARNA942
+https://22893.live.streamtheworld.com/WARNA942FM_PREM.aac
+#EXTINF:-1 tvg-id="OLI968" tvg-logo="" group-title="RadioSG",OLI968
+https://28313.live.streamtheworld.com/OLI968FM_PREM.aac
+#EXTINF:-1 tvg-id="INDIEGO" tvg-logo="" group-title="RadioSG",INDIEGO
+https://28383.live.streamtheworld.com/INDIEGO_S01_PREM.aac
