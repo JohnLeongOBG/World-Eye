@@ -519,29 +519,41 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-id="film4" tvg-logo="" group-title="UK",film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1 tvg-id="Channel5" tvg-logo="" group-title="UK",Channel5
+#EXTINF:-1 tvg-id="Channel5UK" tvg-logo="" group-title="UK",Channel5UK
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-id="class95" tvg-logo="" group-title="RadioSG",class95
+#EXTINF:-1 tvg-id="class95" tvg-logo="" group-title="RadioSGMY",class95
 https://22903.live.streamtheworld.com/CLASS95_PREM.aac
-#EXTINF:-1 tvg-id="GOLD905" tvg-logo="" group-title="RadioSG",GOLD905
+#EXTINF:-1 tvg-id="GOLD905" tvg-logo="" group-title="RadioSGMY",GOLD905
 https://22903.live.streamtheworld.com/GOLD905_PREM.aac
-#EXTINF:-1 tvg-id="987FM" tvg-logo="" group-title="RadioSG",987
+#EXTINF:-1 tvg-id="987FM" tvg-logo="" group-title="RadioSGMY",987
 https://28383.live.streamtheworld.com/987FM_PREM.aac
-#EXTINF:-1 tvg-id="CNA938" tvg-logo="" group-title="RadioSG",CNA938
+#EXTINF:-1 tvg-id="CNA938" tvg-logo="" group-title="RadioSGMY",CNA938
 https://28323.live.streamtheworld.com/938NOW_PREM.aac
-#EXTINF:-1 tvg-id="SYMPHONY924" tvg-logo="" group-title="RadioSG",SYMPHONY924
+#EXTINF:-1 tvg-id="SYMPHONY924" tvg-logo="" group-title="RadioSGMY",SYMPHONY924
 https://28383.live.streamtheworld.com/SYMPHONY924_PREM.aac
-#EXTINF:-1 tvg-id="YES933" tvg-logo="" group-title="RadioSG",YES933
+#EXTINF:-1 tvg-id="YES933" tvg-logo="" group-title="RadioSGMY",YES933
 https://28323.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1 tvg-id="LOVE972" tvg-logo="" group-title="RadioSG",LOVE972
+#EXTINF:-1 tvg-id="LOVE972" tvg-logo="" group-title="RadioSGMY",LOVE972
 https://28313.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 tvg-id="CAPITAL958" tvg-logo="" group-title="RadioSG",CAPITAL958
+#EXTINF:-1 tvg-id="CAPITAL958" tvg-logo="" group-title="RadioSGMY",CAPITAL958
 https://28373.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-id="RIA897" tvg-logo="" group-title="RadioSG",RIA897
+#EXTINF:-1 tvg-id="RIA897" tvg-logo="" group-title="RadioSGMY",RIA897
 https://22403.live.streamtheworld.com/RIA897FM_PREM.aac
-#EXTINF:-1 tvg-id="WARNA942" tvg-logo="" group-title="RadioSG",WARNA942
+#EXTINF:-1 tvg-id="WARNA942" tvg-logo="" group-title="RadioSGMY",WARNA942
 https://22893.live.streamtheworld.com/WARNA942FM_PREM.aac
-#EXTINF:-1 tvg-id="OLI968" tvg-logo="" group-title="RadioSG",OLI968
+#EXTINF:-1 tvg-id="OLI968" tvg-logo="" group-title="RadioSGMY",OLI968
 https://28313.live.streamtheworld.com/OLI968FM_PREM.aac
-#EXTINF:-1 tvg-id="INDIEGO" tvg-logo="" group-title="RadioSG",INDIEGO
+#EXTINF:-1 tvg-id="INDIEGO" tvg-logo="" group-title="RadioSGMY",INDIEGO
 https://28383.live.streamtheworld.com/INDIEGO_S01_PREM.aac
+#EXTINF:-1 tvg-id="CityFM" tvg-logo="" group-title="RadioSGMY",CityFM
+https://n04.rcs.revma.com/9ykdmcawe1bwv?rj-ttl=5&rj-tok=AAABmgxR-9MAZ9aI9_8C2sxOoQ
+#EXTINF:-1 tvg-id="EightFM" tvg-logo="" group-title="RadioSGMY",EightFM
+https://n10.rcs.revma.com/qp0xrd9mtd3vv/10_79gwnm81s3c102/playlist.m3u8
+#EXTINF:-1 tvg-id="GOXUAN" tvg-logo="" group-title="RadioSGMY",GOXUAN
+https://n10.rcs.revma.com/xt9nhzsbv4uvv/hls.m3u8
+#EXTINF:-1 tvg-id="988FM" tvg-logo="" group-title="RadioSGMY",988FM
+https://28093.live.streamtheworld.com/988_FMAAC.aac
+#EXTINF:-1 tvg-id="AIFM" tvg-logo="" group-title="RadioSGMY",AIFM
+https://28093.live.streamtheworld.com/AI_FMAAC.aac
+#EXTINF:-1 tvg-id="MYFM" tvg-logo="" group-title="RadioSGMY",MYFM
+https://n10.rcs.revma.com/hc3unrtbv4uvv/10_1c49qdjmw6coy02/playlist.m3u8
