@@ -546,4 +546,5 @@ https://28313.live.streamtheworld.com/OLI968FM_PREM.aac
 #EXTINF:-1 tvg-id="INDIEGO" tvg-logo="" group-title="RadioSG",INDIEGO
 https://28383.live.streamtheworld.com/INDIEGO_S01_PREM.aac
 #EXTINF:-1 tvg-id="TV5MondeStyle" tvg-name="TV5MondeStyle" tvg-logo="" group-title="France",TV5MondeStyle
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8,https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8
