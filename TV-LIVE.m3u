@@ -509,7 +509,7 @@ https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNN Europe" tvg-logo="" group-title="News",CNN Europe
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 #EXTINF:-1 tvg-id="CNBC Europe " tvg-logo="" group-title="News",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
@@ -561,3 +561,15 @@ https://28093.live.streamtheworld.com/988_FMAAC.aac
 https://28093.live.streamtheworld.com/AI_FMAAC.aac
 #EXTINF:-1 tvg-id="MYFM" tvg-logo="" group-title="RadioSGMY",MYFM
 https://n10.rcs.revma.com/hc3unrtbv4uvv/10_1c49qdjmw6coy02/playlist.m3u8
+#EXTINF:-1 tvg-id="广西电台新闻910" tvg-logo="" group-title="RadioGX",广西电台新闻910
+https://stream.bbrtv.com:10443/hls/sIoyCf1Gg/sIoyCf1Gg_live.m3u8
+#EXTINF:-1 tvg-id="广西电台私家车930" tvg-logo="" group-title="RadioGX",广西电台私家车930
+https://stream.bbrtv.com:10443/hls/I7LJVL1Gg/I7LJVL1Gg_live.m3u8
+#EXTINF:-1 tvg-id="广西交通台100.3" tvg-logo="" group-title="RadioGX",广西交通台100.3
+https://stream.bbrtv.com:10443/hls/scGbVLJGR/scGbVLJGR_live.m3u8
+#EXTINF:-1 tvg-id="广西电台970经济广播" tvg-logo="" group-title="RadioGX",广西电台970经济广播
+https://stream.bbrtv.com:10443/hls/wrr24LJGR/wrr24LJGR_live.m3u8
+#EXTINF:-1 tvg-id="广西电台950音乐台" tvg-logo="" group-title="RadioGX",广西电台950音乐台
+https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
+#EXTINF:-1 tvg-id="广西电台北部湾之声" tvg-logo="" group-title="RadioGX",广西电台北部湾之声
+https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
