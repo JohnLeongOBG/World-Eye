@@ -9,15 +9,15 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE Asie" tvg-name="TV5MONDE Asie" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5-asie_2.png" group-title="France",TV5MONDE-亚洲
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/france24.png" group-title="News",France 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/france24.png" group-title="News",France 24 Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/france24.png" group-title="News",France 24 西班牙语
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png group-title="News",France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="WorldNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="News",半岛新闻阿语频道
+#EXTINF:-1 tvg-id="WorldNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="News",aljazeera Arabic
 https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="News",半岛英语新闻频道
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="News",aljazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 group-title="News",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -45,7 +45,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/channelnewsasia.png" group-title="News",CNA
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/france24.png" group-title="News",法国24法语频道
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 français
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/NHKWorld.png" group-title="News",NHK WORLD TV JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
@@ -493,15 +493,15 @@ https://i.mjh.nz/.r/dw-news.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="News",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-id="680News" tvg-logo="https://www.seekyoursounds.com/wp-content/uploads/2024/07/Seekr-RadioCover-CITY-Tor-300x300.png" group-title="Radio",680News
+#EXTINF:-1 tvg-id="680News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/680News_2015_Logo.png" group-title="Radio",680News
 https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1130News" tvg-logo="https://www.seekyoursounds.com/wp-content/uploads/2024/07/Seekr-RadioCover-CITY-Van-300x300.png" group-title="Radio",1130News
+#EXTINF:-1 tvg-id="1130News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/CKWX_NEWS1130_logo.png" group-title="Radio",1130News
 https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="660News" tvg-logo="https://www.seekyoursounds.com/wp-content/uploads/2024/07/Seekr-RadioCover-CITY-Cal-300x300.png" group-title="Radio",660News
+#EXTINF:-1 tvg-id="660News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/660_News_Calgary_logo.png" group-title="Radio",660News
 https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="95.7News" tvg-logo="https://www.seekyoursounds.com/wp-content/uploads/2024/07/Seekr-RadioCover-CITY-Hal-300x300.png" group-title="Radio",95.7News
+#EXTINF:-1 tvg-id="95.7News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/CJNI_NEWS95.7_logo.png" group-title="Radio",95.7News
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="570News" tvg-logo="https://www.seekyoursounds.com/wp-content/uploads/2024/07/Seekr-RadioCover-CITY-Kit-300x300.png" group-title="Radio",570News
+#EXTINF:-1 tvg-id="570News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/ckgl-570-news.png" group-title="Radio",570News
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109939.v2.png" group-title="Radio",CP24-Radio
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
