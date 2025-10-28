@@ -13,7 +13,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png group-title="News",France 24 Español
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="WorldNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="News",aljazeera Arabic
 https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8
