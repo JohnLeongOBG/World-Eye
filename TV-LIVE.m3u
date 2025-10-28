@@ -573,3 +573,5 @@ https://stream.bbrtv.com:10443/hls/wrr24LJGR/wrr24LJGR_live.m3u8
 https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
 #EXTINF:-1 tvg-id="广西电台北部湾之声" tvg-logo="" group-title="RadioGX",广西电台北部湾之声
 https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
+#EXTINF:-1 tvg-id="franceinfo" tvg-logo="" group-title="法语电台",franceinfo
+https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8
