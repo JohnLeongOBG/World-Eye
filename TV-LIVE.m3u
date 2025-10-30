@@ -501,7 +501,7 @@ https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="95.7News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/CJNI_NEWS95.7_logo.png" group-title="Radio",95.7News
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="570News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/ckgl-570-news.png" group-title="Radio",570News
+#EXTINF:-1 tvg-id="570News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/refs/heads/main/Radio-Logo/570News.png" group-title="Radio",570News
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109939.v2.png" group-title="Radio",CP24-Radio
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
