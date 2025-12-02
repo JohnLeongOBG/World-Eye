@@ -876,3 +876,29 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002830/1000.m3u8?virtua
 #EXTINF:-1 tvg-id="LTCS7" tvg-name="联通测试7" tvg-logo="https://img.iptv2022.com/logo/ltcs7.png" group-title="测试台",联通测试7
 http://124.90.44.40:6060/010/2/01000010000000060000000000002835/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="" group-title="4K台-浙江",北京卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002865/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="" group-title="4K台-浙江",深圳卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002878/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="" group-title="4K台-浙江",广东卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002877/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="" group-title="4K台-浙江",东方卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002067/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="4K台-浙江",湖南卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002069/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="" group-title="4K台-浙江",江苏卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002071/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="4K台-浙江",浙江卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002065/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="" group-title="4K台-浙江",四川卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002075/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="4K台-浙江",山东卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002073/1000.m3u8?virtualDomain=010.live_hls.zte.com
