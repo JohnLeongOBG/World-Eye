@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/DW.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE INFO" tvg-name="TV5MONDE INFO" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-info.png" group-title="News",TV5MONDE-INFO
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28info%29/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE Asie" tvg-name="TV5MONDE Asie" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5-asie_2.png" group-title="France",TV5MONDE-亚洲
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28seasie%29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 Arabic
@@ -32,13 +32,13 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTDoc.png" group-title="News",RTDoc
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/tv5monde.png" group-title="France",TV5-北非中东
-https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28orient%29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/tv5monde.png" group-title="France",TV5-法比瑞摩
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28fbs%29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/tv5monde.png" group-title="France",TV5-太平洋
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28pacifique%29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/tv5monde.png" group-title="France",TV5-欧洲
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28europe%29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/channelnewsasia.png" group-title="News",CNA
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="News",France 24 français
