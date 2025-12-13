@@ -140,12 +140,6 @@ https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
 #EXTINF:-1 group-title="News",NBCNEWSNOW
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-
-#EXTM3U url-tvg="https://i.mjh.nz/au/Sydney/epg.xml.gz"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://i.mjh.nz/au/Sydney/raw-tv.m3u8
-
 #EXTINF:-1 tvg-id="mjh-seven-syd" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/7_Channel_Logo.png" group-title="Sydney",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
 #EXTINF:-1 tvg-id="mjh-7two-syd" tvg-logo="https://staging.tvapi.com.au/images/shelf/7two.png" group-title="Sydney",7two
