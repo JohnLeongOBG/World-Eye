@@ -1,35 +1,35 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/DW.png" group-title="咖眼(看世界)“,DW English
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/DW.png" group-title="咖眼(看世界)",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="TV5MONDE INFO" tvg-name="TV5MONDE INFO" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-info.png" group-title="咖眼(看世界)“,TV5MONDE-INFO
+#EXTINF:-1 tvg-id="TV5MONDE INFO" tvg-name="TV5MONDE INFO" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-info.png" group-title="咖眼(看世界)",TV5MONDE-INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel%28info%29/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE Asie" tvg-name="TV5MONDE Asie" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5-asie_2.png" group-title="咖眼(看法国)",TV5MONDE-亚洲
 https://ott.tv5monde.com/Content/HLS/Live/channel%28seasie%29/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)“,France 24 English
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)",France 24 English
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)“,France 24 Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)",France 24 Arabic
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)“,France 24 Español
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)",France 24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="WorldNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="咖眼(看世界)“,aljazeera Arabic
+#EXTINF:-1 tvg-id="WorldNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="咖眼(看世界)",aljazeera Arabic
 https://live-hls-web-aja-fa.thehlive.com/AJA/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="咖眼(看世界)“,aljazeera English
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/aljazeera.png" group-title="咖眼(看世界)",aljazeera English
 https://live-hls-web-aje-fa.thehlive.com/AJE/01.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,CGTN
+#EXTINF:-1 group-title="咖眼(看世界)",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,CGTN纪录
+#EXTINF:-1 group-title="咖眼(看世界)",CGTN纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,CGTN法语
+#EXTINF:-1 group-title="咖眼(看世界)",CGTN法语
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,CGTN西语
+#EXTINF:-1 group-title="咖眼(看世界)",CGTN西语
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,CGTN阿语
+#EXTINF:-1 group-title="咖眼(看世界)",CGTN阿语
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,CGTN俄语
+#EXTINF:-1 group-title="咖眼(看世界)",CGTN俄语
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTNews.png" group-title="咖眼(看世界)“,RTNews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTNews.png" group-title="咖眼(看世界)",RTNews
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTDoc.png" group-title="咖眼(看世界)“,RTDoc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/RTDoc.png" group-title="咖眼(看世界)",RTDoc
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/tv5monde.png" group-title="咖眼(看法国)",TV5-北非中东
 https://ott.tv5monde.com/Content/HLS/Live/channel%28orient%29/variant.m3u8
@@ -39,17 +39,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel%28fbs%29/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel%28pacifique%29/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/tv5monde.png" group-title="咖眼(看法国)",TV5-欧洲
 https://ott.tv5monde.com/Content/HLS/Live/channel%28europe%29/variant.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/channelnewsasia.png" group-title="咖眼(看世界)“,CNA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/channelnewsasia.png" group-title="咖眼(看世界)",CNA
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)“,France 24 français
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/France24.png" group-title="咖眼(看世界)",France 24 français
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/NHKWorld.png" group-title="咖眼(看世界)“,NHK WORLD TV JAPAN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/NHKWorld.png" group-title="咖眼(看世界)",NHK WORLD TV JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-style.png" group-title="咖眼(看法国)",TV5Monde-Style
 https://ott.tv5monde.com/Content/HLS/Live/channelstyle1/variant.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,NHK WORLD TV JAPAN
+#EXTINF:-1 group-title="咖眼(看世界)",NHK WORLD TV JAPAN
 https://production-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/LCOchpnEI6Wia1VD/sBxNfADIBGtkNt27/chunks.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,CNA
+#EXTINF:-1 group-title="咖眼(看世界)",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="9Gem.au@Sydney" group-title="咖眼澳洲(看澳洲)",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
@@ -63,7 +63,7 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="ABCME.au@Sydney" group-title="咖眼澳洲(看澳洲)",ABC Me
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au" group-title="咖眼(看世界)“,ABC News
+#EXTINF:-1 tvg-id="ABCNews.au" group-title="咖眼(看世界)",ABC News
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au@Adelaide" group-title="咖眼澳洲(看澳洲)",ABC TV Adelaide
 https://c.mjh.nz/abc-sa.m3u8
@@ -83,7 +83,7 @@ https://c.mjh.nz/abc-wa.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au@Sydney" group-title="咖眼澳洲(看澳洲)",ABC TV Sydney
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Australia" group-title="咖眼(看世界)“,Bloomberg TV Australia
+#EXTINF:-1 tvg-id="BloombergTV.us@Australia" group-title="咖眼(看世界)",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Adelaide" group-title="咖眼澳洲(看澳洲)",Channel 9 Adelaide
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
@@ -137,7 +137,7 @@ https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TV5-法比瑞摩
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
-#EXTINF:-1 group-title="咖眼(看世界)“,NBCNEWSNOW
+#EXTINF:-1 group-title="咖眼(看世界)",NBCNEWSNOW
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-id="mjh-seven-syd" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/7_Channel_Logo.png" group-title="咖眼澳洲(看澳洲)",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
@@ -479,9 +479,9 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 https://i.mjh.nz/.r/bbc-news
 #EXTINF:-1 tvg-id="mjh-dw-news" tvg-logo="https://www.dw.com/images/icons/favicon-540x540.png" group-title="咖眼澳洲(看澳洲)",DW English
 https://i.mjh.nz/.r/dw-news.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNews.it" tvg-logo="https://www.bbcwwpartners.com/images/travel/wntp-logo-wn.png" group-title="咖眼(看世界)“,BBC News
+#EXTINF:-1 tvg-id="BBCWorldNews.it" tvg-logo="https://www.bbcwwpartners.com/images/travel/wntp-logo-wn.png" group-title="咖眼(看世界)",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="咖眼(看世界)“,Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="咖眼(看世界)",Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channelskynews/index_1080-30.m3u8
 #EXTINF:-1 tvg-id="680News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/Radio-Logo/680News_2015_Logo.png" group-title="咖眼(听加国)",680News
 https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
@@ -495,19 +495,19 @@ https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109939.v2.png" group-title="咖眼(听加国)",CP24-Radio
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
-#EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="咖眼(看世界)“,CPAC
+#EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="咖眼(看世界)",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="咖眼(看世界)“,CNN
+#EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="咖眼(看世界)",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN Europe" tvg-logo="" group-title="咖眼(看世界)“,CNN Europe
+#EXTINF:-1 tvg-id="CNN Europe" tvg-logo="" group-title="咖眼(看世界)",CNN Europe
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
-#EXTINF:-1 tvg-id="CNBC Europe " tvg-logo="" group-title="咖眼(看世界)“,CNBC Europe
+#EXTINF:-1 tvg-id="CNBC Europe " tvg-logo="" group-title="咖眼(看世界)",CNBC Europe
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="咖眼(看世界)“,Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="咖眼(看世界)",Sky News
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
 #EXTINF:-1 tvg-id="BBCTWO" tvg-logo="" group-title="咖眼(看英国)",BBCTwo
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:-1 tvg-id="BBC World" tvg-logo="" group-title="咖眼(看世界)“,BBC World
+#EXTINF:-1 tvg-id="BBC World" tvg-logo="" group-title="咖眼(看世界)",BBC World
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 tvg-id="Channel4" tvg-logo="" group-title="咖眼(看英国)",Channel4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
@@ -563,7 +563,7 @@ https://stream.bbrtv.com:10443/hls/wrr24LJGR/wrr24LJGR_live.m3u8
 https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
 #EXTINF:-1 tvg-id="广西电台北部湾之声" tvg-logo="" group-title="咖眼(听广西)",广西电台北部湾之声
 https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
-#EXTINF:-1 tvg-id="franceinfo" tvg-logo="" group-title="法语电台",franceinfo
+#EXTINF:-1 tvg-id="franceinfo" tvg-logo="" group-title="咖眼(听法国)",franceinfo
 https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8
 #EXTINF:-1 tvg-id="CCTV1HD" tvg-name="中央一套" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="咖眼浙江(看中央)",中央一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
