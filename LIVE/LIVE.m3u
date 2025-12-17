@@ -46,7 +46,7 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/NHKWorld.png" group-title="咖眼(看世界)",NHK WORLD TV JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-style.png" group-title="咖眼(看法国)",TV5Monde-Style
-https://ott.tv5monde.com/Content/HLS/Live/channel%28style1%29/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channelstyle1/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看世界)",NHK WORLD TV JAPAN
 https://production-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/LCOchpnEI6Wia1VD/sBxNfADIBGtkNt27/chunks.m3u8
 #EXTINF:-1 group-title="咖眼(看世界)",CNA
@@ -108,11 +108,11 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="咖眼香港(看香港)",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TV5Monde-Style
-https://ott.tv5monde.com/Content/HLS/Live/channel%28style2%29/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channelstyle2/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TV5-欧洲
-https://ott.tv5monde.com/Content/HLS/Live/channel%28europe-drm%29/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channeleurope-drm/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TV5-法比瑞摩
-https://ott.tv5monde.com/Content/HLS/Live/channel%28fbs%29/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channelfbs/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",France2
@@ -563,41 +563,41 @@ https://stream.bbrtv.com:10443/hls/wrr24LJGR/wrr24LJGR_live.m3u8
 https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
 #EXTINF:-1 tvg-id="广西电台北部湾之声" tvg-logo="" group-title="咖眼(听广西)",广西电台北部湾之声
 https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
-#EXTINF:-1 tvg-id="franceinfo" tvg-logo="" group-title="咖眼(听法国)",franceinfo
+#EXTINF:-1 tvg-id="franceinfo" tvg-logo="" group-title="法语电台",franceinfo
 https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8
-#EXTINF:-1 tvg-id="CCTV1HD" tvg-name="中央一套" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="咖眼浙江(看中央)",中央一套
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-name="央视一套" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="咖眼浙江(看中央)",央视一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV2HD" tvg-name="中央二套" tvg-logo="https://img.iptv2022.com/logo/cctv2.png" group-title="咖眼浙江(看中央)",中央二套
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-name="央视二套" tvg-logo="https://img.iptv2022.com/logo/cctv2.png" group-title="咖眼浙江(看中央)",央视二套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000471/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV3HD" tvg-name="中央三套" tvg-logo="https://img.iptv2022.com/logo/cctv3.png" group-title="咖眼浙江(看中央)",中央三套
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-name="央视三套" tvg-logo="https://img.iptv2022.com/logo/cctv3.png" group-title="咖眼浙江(看中央)",央视三套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="中央四套" tvg-logo="https://img.iptv2022.com/logo/cctv4.png" group-title="咖眼浙江(看中央)",中央四套
-http://124.90.44.40:6060/010/2/00000009000000060000000000002077?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV5HD" tvg-name="中央五套" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",中央五套
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="央视四套" tvg-logo="https://img.iptv2022.com/logo/cctv4.png" group-title="咖眼浙江(看中央)",央视四套
+http://124.90.44.40:6060/010/2/00000009000000060000000000002077/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-name="央视五套" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",央视五套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV6HD" tvg-name="中央六套" tvg-logo="https://img.iptv2022.com/logo/cctv6.png" group-title="咖眼浙江(看中央)",中央六套
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-name="央视六套" tvg-logo="https://img.iptv2022.com/logo/cctv6.png" group-title="咖眼浙江(看中央)",央视六套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV7HD" tvg-name="中央七套" tvg-logo="https://img.iptv2022.com/logo/cctv7.png" group-title="咖眼浙江(看中央)",中央七套
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-name="央视七套" tvg-logo="https://img.iptv2022.com/logo/cctv7.png" group-title="咖眼浙江(看中央)",央视七套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV8HD" tvg-name="中央八套" tvg-logo="https://img.iptv2022.com/logo/cctv8.png" group-title="咖眼浙江(看中央)",中央八套
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-name="央视八套" tvg-logo="https://img.iptv2022.com/logo/cctv8.png" group-title="咖眼浙江(看中央)",央视八套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV9HD" tvg-name="中央纪录" tvg-logo="https://img.iptv2022.com/logo/cctv9.png" group-title="咖眼浙江(看中央)",中央纪录
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-name="央视纪录" tvg-logo="https://img.iptv2022.com/logo/cctv9.png" group-title="咖眼浙江(看中央)",央视纪录
 http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV10HD" tvg-name="中央科教" tvg-logo="https://img.iptv2022.com/logo/cctv10.png" group-title="咖眼浙江(看中央)",中央科教
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-name="央视科教" tvg-logo="https://img.iptv2022.com/logo/cctv10.png" group-title="咖眼浙江(看中央)",央视科教
 http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="中央戏曲" tvg-logo="https://img.iptv2022.com/logo/cctv11.png" group-title="咖眼浙江(看中央)",中央戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="央视戏曲" tvg-logo="https://img.iptv2022.com/logo/cctv11.png" group-title="咖眼浙江(看中央)",央视戏曲
 http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV12HD" tvg-name="中央十二" tvg-logo="https://img.iptv2022.com/logo/cctv12.png" group-title="咖眼浙江(看中央)",中央十二
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-name="央视十二" tvg-logo="https://img.iptv2022.com/logo/cctv12.png" group-title="咖眼浙江(看中央)",央视十二
 http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV13HD" tvg-name="中央新闻" tvg-logo="https://img.iptv2022.com/logo/cctv13.png" group-title="咖眼浙江(看中央)",中央新闻
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-name="央视新闻" tvg-logo="https://img.iptv2022.com/logo/cctv13.png" group-title="咖眼浙江(看中央)",央视新闻
 http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV14HD" tvg-name="中央少儿" tvg-logo="https://img.iptv2022.com/logo/cctv14.png" group-title="咖眼浙江(看中央)",中央少儿
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-name="央视少儿" tvg-logo="https://img.iptv2022.com/logo/cctv14.png" group-title="咖眼浙江(看中央)",央视少儿
 http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="中央音乐" tvg-logo="https://img.iptv2022.com/logo/cctv15.png" group-title="咖眼浙江(看中央)",中央音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="央视音乐" tvg-logo="https://img.iptv2022.com/logo/cctv15.png" group-title="咖眼浙江(看中央)",央视音乐
 http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="中央十七套" tvg-logo="https://img.iptv2022.com/logo/cctv17.png" group-title="咖眼浙江(看中央)",中央十七套
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="央视十七套" tvg-logo="https://img.iptv2022.com/logo/cctv17.png" group-title="咖眼浙江(看中央)",央视十七套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTVOLYMPIC" tvg-name="中央奥运" tvg-logo="https://img.iptv2022.com/logo/cctv16.png" group-title="咖眼浙江(看中央)",中央奥运
+#EXTINF:-1 tvg-id="CCTVOLYMPIC" tvg-name="央视奥运" tvg-logo="https://img.iptv2022.com/logo/cctv16.png" group-title="咖眼浙江(看中央)",央视奥运
 http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV5HD2" tvg-name="CCTV5" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",CCTV5
 http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
