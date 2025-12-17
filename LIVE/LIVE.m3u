@@ -46,7 +46,7 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/NHKWorld.png" group-title="咖眼(看世界)",NHK WORLD TV JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-style.png" group-title="咖眼(看法国)",TV5Monde-Style
-https://ott.tv5monde.com/Content/HLS/Live/channelstyle1/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28style1%29/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看世界)",NHK WORLD TV JAPAN
 https://production-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/LCOchpnEI6Wia1VD/sBxNfADIBGtkNt27/chunks.m3u8
 #EXTINF:-1 group-title="咖眼(看世界)",CNA
@@ -108,11 +108,11 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="咖眼香港(看香港)",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TV5Monde-Style
-https://ott.tv5monde.com/Content/HLS/Live/channelstyle2/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28style2%29/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TV5-欧洲
-https://ott.tv5monde.com/Content/HLS/Live/channeleurope-drm/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28europe-drm%29/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TV5-法比瑞摩
-https://ott.tv5monde.com/Content/HLS/Live/channelfbs/variant.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel%28fbs%29/variant.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",TF1
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 group-title="咖眼(看法国)",France2
