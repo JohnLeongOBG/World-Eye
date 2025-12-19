@@ -575,7 +575,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000009000000060000000000002077/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV5HD" tvg-name="央视五套" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",CCTV5
 http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://img.iptv2022.com/logo/cctv5+.png" group-title="咖眼浙江(看中央)",CCTV5+
 http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV6HD" tvg-name="央视六套" tvg-logo="https://img.iptv2022.com/logo/cctv6.png" group-title="咖眼浙江(看中央)",CCTV6
 http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
