@@ -575,6 +575,8 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000009000000060000000000002077/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV5HD" tvg-name="央视五套" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",CCTV5
 http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",CCTV5+
+http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV6HD" tvg-name="央视六套" tvg-logo="https://img.iptv2022.com/logo/cctv6.png" group-title="咖眼浙江(看中央)",CCTV6
 http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV7HD" tvg-name="央视七套" tvg-logo="https://img.iptv2022.com/logo/cctv7.png" group-title="咖眼浙江(看中央)",CCTV7
@@ -599,8 +601,6 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTVOLYMPIC" tvg-name="央视奥运" tvg-logo="https://img.iptv2022.com/logo/cctv16.png" group-title="咖眼浙江(看中央)",CCTV16
 http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV5HD2" tvg-name="CCTV5" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="咖眼浙江(看中央)",CCTV5
-http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CETV1" tvg-name="中国教育一套" tvg-logo="https://img.iptv2022.com/logo/cetv1.png" group-title="咖眼浙江(看中央)",中国教育一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CETV4" tvg-name="中国教育四套" tvg-logo="https://img.iptv2022.com/logo/cetv4.png" group-title="咖眼浙江(看中央)",中国教育四套
