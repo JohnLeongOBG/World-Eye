@@ -493,8 +493,10 @@ https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="570News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/refs/heads/main/Radio-Logo/570News.png" group-title="咖眼(听加国)",570News
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CP24-Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109939.v2.png" group-title="咖眼(听加国)",CP24-Radio
+#EXTINF:-1 tvg-id="CP24" tvg-logo="" group-title="咖眼(听加国)",CP24
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
+#EXTINF:-1 tvg-id="CTV News Channel" tvg-logo="" group-title="咖眼(听加国)",CTV News Channel
+https://provisioning.streamtheworld.com/pls/TV_CTV_NEWSAAC.pls
 #EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="咖眼(看世界)",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="咖眼(看世界)",CNN
@@ -563,7 +565,7 @@ https://stream.bbrtv.com:10443/hls/wrr24LJGR/wrr24LJGR_live.m3u8
 https://stream.bbrtv.com:10443/hls/rCjJ4Y1MR/rCjJ4Y1MR_live.m3u8
 #EXTINF:-1 tvg-id="广西电台北部湾之声" tvg-logo="" group-title="咖眼(听广西)",广西电台北部湾之声
 https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
-#EXTINF:-1 tvg-id="franceinfo" tvg-logo="" group-title="法语电台",franceinfo
+#EXTINF:-1 tvg-id="franceinfo" tvg-logo="" group-title="咖眼(听法国)",franceinfo
 https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8
 #EXTINF:-1 tvg-id="CCTV1HD" tvg-name="央视一套" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="咖眼浙江(看中央)",CCTV1
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
@@ -779,3 +781,4 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002065/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000009000000060000000000002075/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="咖眼浙江(超高清)",山东卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002073/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
