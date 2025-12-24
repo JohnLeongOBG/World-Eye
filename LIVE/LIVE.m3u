@@ -493,9 +493,9 @@ https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="570News" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/refs/heads/main/Radio-Logo/570News.png" group-title="咖眼(听加国)",570News
 https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CP24" tvg-logo="" group-title="咖眼(听加国)",CP24
+#EXTINF:-1 tvg-id="CP24" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/WorldEye/refs/heads/main/Radio-Logo/CP24_black_logo.svg.png" group-title="咖眼(听加国)",CP24
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
-#EXTINF:-1 tvg-id="CTV News Channel" tvg-logo="" group-title="咖眼(听加国)",CTV News Channel
+#EXTINF:-1 tvg-id="CTV News Channel" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/WorldEye/refs/heads/main/TV-Logo/CTV_News_Channel_(Canada)_logo.svg.png" group-title="咖眼(听加国)",CTV News Channel
 https://provisioning.streamtheworld.com/pls/TV_CTV_NEWSAAC.pls
 #EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="咖眼(看世界)",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
