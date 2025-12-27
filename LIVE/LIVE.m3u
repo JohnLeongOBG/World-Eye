@@ -498,7 +498,9 @@ https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8
 https://18503.live.streamtheworld.com/TV_CP24AAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="CTV News Channel" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/CTV_News_Channel_(Canada)_logo.png" group-title="咖眼(听加国)",CTV News Channel
 https://provisioning.streamtheworld.com/pls/TV_CTV_NEWSAAC.pls
-#EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="咖眼(看世界)",CPAC
+#EXTINF:-1 tvg-id="News Talk 1010" tvg-logo="https://www.newstalk1010.com/content/dam/audio/iheart-stations-logos/logo-newstalk.svg" group-title="咖眼(听加国)",News Talk 1010
+https://27273.live.streamtheworld.com/CFRBAM.mp3
+#EXTINF:-1 tvg-id="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/CPAC_logo_black_color.png" group-title="咖眼(看加国)",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="咖眼(看世界)",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
@@ -782,5 +784,6 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002065/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000009000000060000000000002075/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="咖眼浙江(超高清)",山东卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002073/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
 
 
